@@ -1,6 +1,7 @@
 body {
-    background-color: grey;
+    background-color: #F4FDFF;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
 img {
@@ -12,4 +13,20 @@ h1 {
     background-color: black;
     color: white;
     text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.recipes {
+    background-color: gray;
+    border: solid black;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+}
+
+.recipelist {
+    margin: 0px auto;
+    width: 50%;
+    
 }
